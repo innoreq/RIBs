@@ -1,3 +1,6 @@
+Note: This fork just modifies the manifest so that the package can be used with SwiftUI/Catalyst projects.
+
+
 <p align="center">
 <img src="https://github.com/uber/ribs/blob/assets/rib_horizontal_black.png" width="60%" height="60%" alt="RIBs"/>
 </p>
